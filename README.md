@@ -2,7 +2,7 @@
 A very simple Age and Gender Detector
 ### To Simply Run this Model:
 1. Clone this Repository.
-2. Run the [gui_model.ipynb or gui_model.py] file (https://github.com/arjunup980/Age-Gender-Detector/blob/main/gui_model.ipynb)file.
+2. Run the [gui_model.ipynb or gui_model.py] file (https://github.com/arjunup980/Age-Gender-Detector/blob/main/gui_model.ipynb).
 3. Upload the Image whose age and gender you want to detect.
 4. Click on Detect Image button.
 5. View Results.
